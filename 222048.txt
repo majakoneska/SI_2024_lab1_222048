@@ -1,0 +1,26 @@
+222048-Maja Koneska
+Laboratoriska vezba 1-SI 2023/24
+
+1.Github profil majakoneska
+
+4. mkdir SI_2024_lab1_222048  - na Desktop kreirav dir
+   cd SI_2024_lab1_222001     -vgov vo dir
+   git init  -inicijaliziranje na Git prazen repozitorium
+
+5. git remote add origin https://github.com/majakoneska/SI_2024_lab1_222048.git  -povrzuvanje so remote repo na Github
+   
+6. echo 'Maja Koneska 222048' > README.md  -sozdavanje na README file
+   git add . -stavanje na fajlot README,stanuva staged fajlot
+   git commit -m "Initial commit" - pravenje commit, fajlot stanuva unmodified
+
+7. dodavanje na fileovite vo dir
+   git add . -stavanje na 3 novi fajla na scena 
+   git commit -m "Add starter code" -pravenje commit
+
+8. git push origin master -sinhronizacija na master grankata so remote repoto
+
+28.git add logs.txt  
+   git add 222048.txt        
+   git commit -m "Final commit" 
+
+29.it push origin -all 

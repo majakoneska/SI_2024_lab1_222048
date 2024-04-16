@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\majamaja>git log
+commit 253988227a7f0cc4b764050b0e3eddb857373d63 (HEAD -> master, origin/master)
+Author: majakoneska <166177744+majakoneska@users.noreply.github.com>
+Date:   Tue Apr 16 23:03:57 2024 +0200
+
+    Add starter code
+
+commit 7e05e01ae9a42d49a2ec79579093931a7267aa53
+Author: majakoneska <166177744+majakoneska@users.noreply.github.com>
+Date:   Tue Apr 16 23:01:59 2024 +0200
+
+    Initial commit
